@@ -1,0 +1,24 @@
+{
+  "number": 72,
+  "product_id": "JLZ-EDU-SK-058",
+  "chinese_name": "员工入职清单",
+  "english_name": "Employee Onboarding Checklist",
+  "repository_name": "edu-employee-onboarding-checklist",
+  "product_type": "Skill",
+  "category": "06 人力组织中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-employee-onboarding-checklist-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "岗位、入职日期、劳动合同、账号权限、培训安排、导师和试用期目标",
+  "main_output": "入职清单、责任角色、完成时限、资料收集最小化说明和验收节点",
+  "package_entries": [
+    "edu-employee-onboarding-checklist/SKILL.md",
+    "edu-employee-onboarding-checklist/references/DOMAIN_GUIDE.md",
+    "edu-employee-onboarding-checklist/references/EXAMPLES.md",
+    "edu-employee-onboarding-checklist/templates/OUTPUT_TEMPLATE.md"
+  ]
+}

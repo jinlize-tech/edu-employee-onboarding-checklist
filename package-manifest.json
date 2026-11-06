@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-058",
+  "repository_name": "edu-employee-onboarding-checklist",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-employee-onboarding-checklist-v1.0.0.zip",
+  "sha256": "CF5DB65A00864908C27503CECFEB07ADA53C9CC4F473A11B73E1D34E85E12C62",
+  "bytes": 4937,
+  "entries": [
+    "edu-employee-onboarding-checklist/SKILL.md",
+    "edu-employee-onboarding-checklist/references/DOMAIN_GUIDE.md",
+    "edu-employee-onboarding-checklist/references/EXAMPLES.md",
+    "edu-employee-onboarding-checklist/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:42:27.1762717+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
