@@ -6,19 +6,37 @@
   "repository_name": "edu-employee-onboarding-checklist",
   "product_type": "Skill",
   "category": "06 人力组织中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-employee-onboarding-checklist-v1.0.0.zip",
+  "baseline_commit": "1d33ce013843535acbf1f05cd75f56114fc9b86a",
+  "package_path": "dist/edu-employee-onboarding-checklist-v1.0.1.zip",
+  "previous_package_path": "dist/edu-employee-onboarding-checklist-v1.0.0.zip",
+  "previous_package_sha256": "CF5DB65A00864908C27503CECFEB07ADA53C9CC4F473A11B73E1D34E85E12C62",
   "calculator": false,
   "core_input": "岗位、入职日期、劳动合同、账号权限、培训安排、导师和试用期目标",
   "main_output": "入职清单、责任角色、完成时限、资料收集最小化说明和验收节点",
+  "main_output_fields": [
+    "入职清单",
+    "责任角色",
+    "完成时限",
+    "资料收集最小化说明和验收节点"
+  ],
   "package_entries": [
     "edu-employee-onboarding-checklist/SKILL.md",
     "edu-employee-onboarding-checklist/references/DOMAIN_GUIDE.md",
     "edu-employee-onboarding-checklist/references/EXAMPLES.md",
-    "edu-employee-onboarding-checklist/templates/OUTPUT_TEMPLATE.md"
+    "edu-employee-onboarding-checklist/templates/OUTPUT_TEMPLATE.md",
+    "edu-employee-onboarding-checklist/README.md",
+    "edu-employee-onboarding-checklist/USAGE.md",
+    "edu-employee-onboarding-checklist/LICENSE",
+    "edu-employee-onboarding-checklist/THIRD_PARTY_NOTICES.md",
+    "edu-employee-onboarding-checklist/scripts/validate_input.js"
   ]
 }
