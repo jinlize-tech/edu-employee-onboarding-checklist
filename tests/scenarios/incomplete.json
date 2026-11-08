@@ -1,0 +1,11 @@
+{
+  "scenario_name": "incomplete",
+  "business_context": "用户在员工入职清单任务开始阶段只提供了少量资料。",
+  "inputs": {
+    "岗位": "标准合成场景｜已确认岗位与职责；具体人员使用角色编号T01、C01（合成编号）",
+    "入职日期": "标准合成场景｜2027年春季学期第1-12周（合成时间）"
+  },
+  "data_status": "confirmed",
+  "conflicts": [],
+  "contains_sensitive_data": false
+}
